@@ -1,1 +1,1 @@
-loadstring(game:httpGet("https://raw.githubusercontent.com/NyroHUB540/murder-mystery-2-NyroHub/refs/heads/main/murder%20mystery%202%20NyroHub"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NyroHUB540/murder-mystery-2-NyroHub/refs/heads/main/murder%20mystery%202%20NyroHub"))()
